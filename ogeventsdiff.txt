@@ -1,0 +1,155 @@
+{/* <!--for users start--> */}
+
+        {/* <!-- ======= Our Services Section ======= --> */}
+        <section id="services-list" className="services-list">
+          <div
+            className="container fadeInUp wow"
+            data-wow-delay="0.1s"
+            data-aos="fade-up"
+          >
+            <div className="User_header">
+              <h6 className="section-title bg-white text-start text-primary pe-3">
+                How We Make A difference
+              </h6>
+            </div>
+
+            <div
+              className="row gy-5"
+              style={{
+                display: "flex",
+                justifyContent: "center",
+                alignItems: "center",
+                textAlign: "center",
+              }}
+            >
+              <div
+                className="col-lg-4 col-md-6 d-flex fadeInUp wow making-diff"
+                data-wow-delay="0.1s"
+                data-aos="fade-up"
+                data-aos-delay="100"
+              >
+                <div className="icon flex-shrink-0">
+                  <img
+                    className="making-diff-img"
+                    src="img/Relevant-Audience-within-Social-Sector-78x80.png"
+                    alt=""
+                  />
+                </div>
+                <div>
+                  <h4 className="title">
+                    <a href="#" className="stretched-link">
+                      Relevant Audience within Social Sector
+                    </a>
+                  </h4>
+                  <p className="description">
+                    Students, Interns, NGO Staff, NGO Volunteers, CSR
+                    Professionals, CSR Heads, NGO Board Members etc.
+                  </p>
+                </div>
+              </div>
+              {/* <!-- End Service Item --> */}
+
+              <div
+                className="col-lg-4 col-md-6 d-flex fadeInUp wow making-diff"
+                data-wow-delay="0.1s"
+                data-aos="fade-up"
+                data-aos-delay="200"
+              >
+                <div className="icon flex-shrink-0">
+                  <img
+                    className="making-diff-img"
+                    src="img/Complete-Transperency-60x80.png"
+                    alt=""
+                  />
+                </div>
+                <div>
+                  <h4 className="title">
+                    <a href="#" className="stretched-link">
+                      Complete Transparency
+                    </a>
+                  </h4>
+                  <p className="description">
+                    Registrations No. of Views No. of Audience reached
+                  </p>
+                </div>
+              </div>
+              {/* <!-- End Service Item --> */}
+
+              <div
+                className="col-lg-4 col-md-6 d-flex fadeInUp wow making-diff"
+                data-wow-delay="0.1s"
+                data-aos="fade-up"
+                data-aos-delay="300"
+              >
+                <div className="icon flex-shrink-0">
+                  <img
+                    className="making-diff-img"
+                    src="img/Dedicated-Payment-Gateway-Integration-80x80.png"
+                    alt=""
+                  />
+                </div>
+                <div>
+                  <h4 className="title">
+                    <a href="#" className="stretched-link">
+                      Dedicated Payment Gateway Integration
+                    </a>
+                  </h4>
+                  <p className="description">
+                    For Bookings, Ticketing and Fees for Events
+                  </p>
+                </div>
+              </div>
+              {/* <!-- End Service Item --> */}
+
+              <div
+                className="col-lg-4 col-md-6 d-flex fadeInUp wow making-diff"
+                data-wow-delay="0.1s"
+                data-aos="fade-up"
+                data-aos-delay="400"
+              >
+                <div className="icon flex-shrink-0">
+                  <img
+                    className="making-diff-img"
+                    src="img/Higher-ROI-100x80.png"
+                    alt=""
+                  />
+                </div>
+                <div>
+                  <h4 className="title">
+                    <a href="#" className="stretched-link">
+                      High ROI Through Filtered Campaigns
+                    </a>
+                  </h4>
+                  <p className="description"></p>
+                </div>
+              </div>
+              {/* <!-- End Service Item --> */}
+
+              <div
+                className="col-lg-4 col-md-6 d-flex fadeInUp wow making-diff"
+                data-wow-delay="0.1s"
+                data-aos="fade-up"
+                data-aos-delay="500"
+              >
+                <div className="icon flex-shrink-0">
+                  <img
+                    className="making-diff-img "
+                    src="img/dashboard-80x80.png"
+                    alt=""
+                  />
+                </div>
+                <div>
+                  <h4 className="title">
+                    <a href="#" className="stretched-link">
+                      Dedicated Dashboard
+                    </a>
+                  </h4>
+                  <p className="description"></p>
+                </div>
+              </div>
+              {/* <!-- End Service Item --> */}
+            </div>
+          </div>
+        </section>
+        {/* <!-- End Our Services Section --> */}
+        {/* <!--for users end--> */}
